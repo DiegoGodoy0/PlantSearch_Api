@@ -1,0 +1,25 @@
+{
+  "name": "plantsearch",
+  "version": "1.0.0",
+  "description": "to search plants data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoGodoy0/PlantSearch_Api.git"
+  },
+  "keywords": [
+    "plant"
+  ],
+  "author": "Diego Godoy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiegoGodoy0/PlantSearch_Api/issues"
+  },
+  "homepage": "https://github.com/DiegoGodoy0/PlantSearch_Api#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
